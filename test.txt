@@ -1,1 +1,3 @@
 This is my first commit to a git repository.
+My name is Aarti Shankar and i am learning Java development.
+I aspire to be a Automation Engineer.
